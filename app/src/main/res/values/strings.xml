@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Happy Birthday</string>
+    <string name="birthday_cake_image">Birthday cake image</string>
+    <string name="cake_icon">Cake icon</string>
+</resources>
